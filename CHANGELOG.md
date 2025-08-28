@@ -1,3 +1,8 @@
+## 1.1.3
+
+* Added `RadioGroup` widget for managing radio buttons.
+* Updated to align with Flutter 3.35 by resolving the deprecations of `Radio.groupValue` and `Radio.onChanged`.
+
 ## 1.1.2
 
 * 📊 Fixed table column alignment support ([#65](https://github.com/Infinitix-LLC/gpt_markdown/issues/65))
