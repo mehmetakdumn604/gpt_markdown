@@ -10,7 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_math_fork: ^0.7.3
+  flutter_math_fork:
+    git:
+      url: https://github.com/Telosnex/flutter_math_fork_fork.git
 
 dev_dependencies:
   flutter_test:
